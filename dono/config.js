@@ -15,16 +15,16 @@ const chalk = require("chalk")
 //===================================== //
 // MUDANÇAS DE LOGOS:
 
-global.log0 = "https://telegra.ph/file/dc1009914486468b76582.jpg" 
+global.log0 = "https://telegra.ph/file/d30fccee4fe8214f37383.jpg" 
 
-global.thumb = "https://telegra.ph/file/dc1009914486468b76582.jpg"
+global.thumb = "https://telegra.ph/file/d30fccee4fe8214f37383.jpg"
 
-global.err4r = "https://telegra.ph/file/dc1009914486468b76582.jpg"
+global.err4r = "https://telegra.ph/file/d30fccee4fe8214f37383.jpg"
 
 //=====================================\\
 // ALTERAÇÕES DE DONO E BOT:
 
-global.numerodonoa = ["558182840069"] //COLOQUE SEU NÚMERO DENTRO DAS ASPAS PARA DEFINIR
+global.numerodonoa = ["556593065507"] //COLOQUE SEU NÚMERO DENTRO DAS ASPAS PARA DEFINIR
 
 global.NomeDoBot = "𝐀𝐤𝐚𝐦𝐞 𝐛𝐨𝐭 𝐤𝐢𝐥𝐥" //NICK DONO
 
